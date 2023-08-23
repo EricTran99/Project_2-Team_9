@@ -2,8 +2,11 @@
 Project 2 written by Team 9
 
 Tema 9 Members:
+
       Goda, Hussam (HGoda)
-      Chicas, Jorge (JCHicas
+      
+      Chicas, Jorge (JCHicas)
+      
       Tran, Eric (TEric)
 
 
