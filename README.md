@@ -9,7 +9,6 @@ Tema 9 Members:
       
       Tran, Eric (TEric)
 
-
 Project 2 was defined and started on Monday, Aug 21. In summary, the requirements for the project are:
       Create two DataFrames for the Category and Subcategory data,
       Create DataFrame for the Campaign data,
