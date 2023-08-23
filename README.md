@@ -5,7 +5,7 @@ Team 9 Members:
 
       Goda, Hussam (HGoda)
       
-      Chicas, Jorge (JCHicas)
+      Chicas, Jorge (JChicas)
       
       Tran, Eric (TEric)
 
