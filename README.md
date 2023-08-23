@@ -1,7 +1,7 @@
 # Crowdfunding_ETL_Team_9
 Project 2 written by Team 9
 
-Tema 9 Members:
+Team 9 Members:
 
       Goda, Hussam (HGoda)
       
