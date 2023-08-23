@@ -1,4 +1,4 @@
-CREATE DATABASE "crowdfunding_db";
+CREATE DATABASE crowdfunding_db;
 
 CREATE TABLE "contacts" (
     "contact_id" INTEGER NOT NULL PRIMARY KEY,
@@ -9,12 +9,12 @@ CREATE TABLE "contacts" (
 
 CREATE TABLE "category" (
     "category_id" VARCHAR(5) NOT NULL PRIMARY KEY,
-    "category" VARCHAR(20)
+    "category" VARCHAR(20) NOT NULL
 );
 
 CREATE TABLE "subcategory" (
     "subcategory_id" VARCHAR(10) NOT NULL PRIMARY KEY,
-    "subcategory" VARCHAR(20)
+    "subcategory" VARCHAR(20) NOT NULL
 );
 
 CREATE TABLE "campaign" (
@@ -31,8 +31,8 @@ CREATE TABLE "campaign" (
     "currency" VARCHAR(5),
     "launched_date" DATE,
     "end_date" DATE,
-    "category_id" VARCHAR(6),
+    "category_id" VARCHAR(6) NOT NULL,
 	FOREIGN KEY (category_id) REFERENCES category (category_id),
-    "subcategory_id" VARCHAR(10),
+    "subcategory_id" VARCHAR(10) NOT NULL,
 	FOREIGN KEY (subcategory_id) REFERENCES subcategory (subcategory_id)
 );
