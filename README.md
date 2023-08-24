@@ -12,13 +12,13 @@ Team 9 Members:
 
 Project 2 was defined and started on Monday, August 21. In summary, the requirements for the project are to create: 
 
-      - two DataFrames for the Category data and Subcategory data,
+      - Two DataFrames for the Category data and Subcategory data,
       
-      - a DataFrame for the Campaign data, 
+      - A DataFrame for the Campaign data, 
       
-      - a DataFrame for the Contacts data, and 
+      - A DataFrame for the Contacts data, and 
       
-      - the crowdfunding_db database.
+      - The crowdfunding_db database.
 
 
 Deliverables
