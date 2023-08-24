@@ -12,7 +12,7 @@ Team 9 Members:
 
 Project 2 was defined and started on Monday, August 21. In summary, the requirements for the project are to create: 
 
-      - two DataFrames for the Category and Subcategory data,
+      - two DataFrames for the Category data and Subcategory data,
       
       - a DataFrame for the Campaign data, 
       
